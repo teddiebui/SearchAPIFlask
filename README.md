@@ -90,7 +90,7 @@ This is a Flask-based web application that provides an API to perform keyword se
 
 1. **Navigate to the tests directory**:
     ```bash
-    cd tests
+    cd test
     ```
 
 2. **Run the tests using `unittest`**:
